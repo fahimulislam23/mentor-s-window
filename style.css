@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Josefin+Sans:wght@300&family=Lobster&family=Merriweather&family=Nunito:wght@200;300;400;600;700&family=Oswald:wght@500&family=Poppins:wght@600&family=Roboto+Slab:wght@600&display=swap');
+
+body{
+    font-family: 'Oswald', sans-serif;
+}
+
+.slider-img img{
+    height: 95vh;
+    filter: brightness(40%);
+}
